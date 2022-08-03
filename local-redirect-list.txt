@@ -1,0 +1,5 @@
+! Title: Rick's Local Redirect List
+! Version: 20220804
+! Description: Local domain DNS entries
+
+ 192.168.10.254     imac_dns.tonoli
