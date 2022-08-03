@@ -4,3 +4,5 @@
 
 ! Too many DNS queries to this, suspect camera's talking to their masters in China, you is blocked biatch!
 ||iotcplatform.com^
+||msn.com^
+||theheartofyourillness.com^
