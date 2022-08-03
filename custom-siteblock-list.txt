@@ -1,0 +1,6 @@
+! Title: Rick's List
+! Version: 20220803
+! Description: Rick's custom block list of domains and servers.
+
+! Too many DNS queries to this, very sus.
+||iotcplatform.com^
