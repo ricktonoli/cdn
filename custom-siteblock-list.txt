@@ -1,6 +1,6 @@
 ! Title: Rick's List
 ! Version: 20220803
-! Description: Rick's custom block list of domains and servers. Handy list I can easily update to block irritating domains I don't like.
+! Description: Rick's custom block list of domains and servers. Handy list I can easily update to block irritating domains I suspect of ill intent.
 
 ! Too many DNS queries to this, suspect camera's talking to their masters in China, you is blocked biatch!
 ||iotcplatform.com^
