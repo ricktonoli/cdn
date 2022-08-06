@@ -4,7 +4,14 @@
 
 ! Too many DNS queries to this, suspect camera's talking to their masters in China, you is blocked biatch!
 ||iotcplatform.com^
+
 ! Hate it.
 ||msn.com^
+
 ! Dodgy Chinese owned site, devices keep "calling home" to it.
 ||theheartofyourillness.com^
+
+! General stuff that irritates me.
+||activation.cloud.techsmith.com
+||zerofasting.com
+||zerolongevity.com
