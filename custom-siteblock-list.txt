@@ -12,6 +12,6 @@
 ||theheartofyourillness.com^
 
 ! General stuff that irritates me.
-||activation.cloud.techsmith.com
-||zerofasting.com
-||zerolongevity.com
+||activation.cloud.techsmith.com^
+||zerofasting.com^
+||zerolongevity.com^
