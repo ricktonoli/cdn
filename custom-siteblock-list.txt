@@ -1,9 +1,13 @@
 ! Title: Rick's List
 ! Version: 20220803
 ! Description: Rick's custom block list of domains and servers. Handy list I can easily update to block irritating domains I suspect of ill intent.
+! For syntax see https://adguard-dns.io/kb/general/dns-filtering-syntax/
 
-! Too many DNS queries to this, suspect camera's talking to their masters in China, you is blocked biatch!
+! Too many DNS queries to this
 ||iotcplatform.com^
+
+! Used by wyze cam
+@@||us-d-master-tutk.iotcplatform.com^
 
 ! Hate it.
 ||msn.com^
