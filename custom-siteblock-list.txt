@@ -3,12 +3,6 @@
 ! Description: Rick's custom block list of domains and servers. Handy list I can easily update to block irritating domains I suspect of ill intent.
 ! For syntax see https://adguard-dns.io/kb/general/dns-filtering-syntax/
 
-! Too many DNS queries to this
-||iotcplatform.com^
-
-! Used by wyze cam
-@@||us-d-master-tutk.iotcplatform.com^
-
 ! Hate it.
 ||msn.com^
 
