@@ -213,3 +213,4 @@
 ||OneSettings-bn2.metron.live.com.nsatc.net^
 ||watson.telemetry.microsoft.com^
 ||watson.telemetry.microsoft.com.nsatc.net^
+@@||msftconnecttest.com^
